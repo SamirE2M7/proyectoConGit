@@ -1,2 +1,2 @@
 hola, probando repositorios en GitHub
-probando git push para subir de local a remoto(github)
+probando git push para subir de local a remoto(github)...
